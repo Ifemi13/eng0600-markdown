@@ -2,11 +2,10 @@
 Uno is a very popular game, but different people have different ways to play.
 ## Required Decks
 - Uno
-![Uno Deck](https://m.media-amazon.com/images/I/71MrrNB7jCL.jpg)
-<img src="https://m.media-amazon.com/images/I/71MrrNB7jCL.jpg" alt="Alt Text" width="300" height="200">
+
+<img src="https://m.media-amazon.com/images/I/71MrrNB7jCL.jpg" alt="Alt Text" width="300" height="700">
 - Uno All-Wild
-![Uno Deck](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQE-aIlzWoVOfoq2aKztH4A6hzvM8cN4W3JuQ&s)
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQE-aIlzWoVOfoq2aKztH4A6hzvM8cN4W3JuQ&s" alt="Alt Text" width="300" height="200">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQE-aIlzWoVOfoq2aKztH4A6hzvM8cN4W3JuQ&s" alt="Alt Text" width="300" height="700">
 
 ## Steps
 1. Take both decks and mix them together
